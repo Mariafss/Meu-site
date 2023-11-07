@@ -1,29 +1,11 @@
-body {
-    color:black;
-    background-color:khaki;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-ul{
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    align-items: center;
-    padding: 16px;
-}
-
-a {
-    color:black;
-    text-decoration: none;
-}
-
-img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid black;
-}
-
-.center {
+header{
+    background-color: gold;
+    padding: 20px;
     text-align: center;
+}
+
+h1 {
+    color:black;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
 }
