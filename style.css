@@ -5,5 +5,5 @@ body {
 
 ul {
     display: flex;
-    justify-content: space-betweene;
+    justify-content: space-between;
 }
