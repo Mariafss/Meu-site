@@ -34,3 +34,7 @@ h1 {
 .container {
     padding: 0px 50px;
 }
+
+nav a:hover {
+    color: goldenrod
+}
