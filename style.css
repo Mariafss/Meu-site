@@ -2,3 +2,8 @@ body {
     color:darkslategray;
     background-color: bisque;
 }
+
+ul {
+    display: flex;
+    justify-content: space-betweene;
+}
